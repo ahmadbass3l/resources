@@ -2,4 +2,4 @@
 
 *Introduction to NumPy:* https://python-course.eu/numerical-programming/introduction-to-numpy.php
 
-* NoSQL DBs:* https://www.codecademy.com/paths/data-engineer/tracks/learn-mongodb/modules/database-basics/articles/introduction-to-nosql
+*NoSQL DBs:* https://www.codecademy.com/paths/data-engineer/tracks/learn-mongodb/modules/database-basics/articles/introduction-to-nosql

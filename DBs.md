@@ -6,3 +6,7 @@
 
 ## Graph:
 1. **[Neo4J](https://neo4j.com/)**
+
+
+## Column Oriented:
+1. **[Amazon Redshift](https://aws.amazon.com/redshift/)**

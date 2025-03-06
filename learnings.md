@@ -10,5 +10,6 @@
 
 *Data modeling:* https://www.codecademy.com/paths/data-engineer/tracks/learn-mongodb/modules/introduction-to-mongodb/articles/mongo-db-data-modeling-basics
 
+*Query an Array of Embedded Documents:* https://www.mongodb.com/docs/manual/tutorial/query-array-of-documents/?utm_campaign=academia_partners&utm_source=codecademy&utm_medium=referral
 
- *Query an Array of Embedded Documents:* https://www.mongodb.com/docs/manual/tutorial/query-array-of-documents/?utm_campaign=academia_partners&utm_source=codecademy&utm_medium=referral
+*Deep Dive Into Modern Web Development*: https://fullstackopen.com/en/

@@ -13,3 +13,7 @@
 *Query an Array of Embedded Documents:* https://www.mongodb.com/docs/manual/tutorial/query-array-of-documents/?utm_campaign=academia_partners&utm_source=codecademy&utm_medium=referral
 
 *Deep Dive Into Modern Web Development*: https://fullstackopen.com/en/
+
+*Publishing A Packaged Machine Learning Model With Gemfury:* https://heartbeat.comet.ml/publishing-a-packaged-machine-learning-model-with-gemfury-7eea9d3c6afd
+
+*Deploying a Machine Learning Model as a Microservice Using FastAPI and Heroku:* https://medium.com/cometheartbeat/deploying-a-machine-learning-model-as-a-microservice-using-fastapi-and-heroku-cb4282ae5464

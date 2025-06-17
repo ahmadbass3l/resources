@@ -1,0 +1,1 @@
+Snowflake Introduces Cortex AISQL and SnowConvert AI: Analytics Rebuilt for the AI Era: https://www.snowflake.com/en/news/press-releases/snowflake-introduces-cortex-aisql-and-snowconvert-ai-analytics-rebuilt-for-the-ai-era/?utm_source=newsletter.fabi.ai&utm_medium=newsletter&utm_campaign=query-theory-vibe-analytics&_bhlid=c7e98297b2a43e95fcfad0566c38e52929b531c4
